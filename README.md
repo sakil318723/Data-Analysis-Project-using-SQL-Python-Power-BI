@@ -1,6 +1,6 @@
 Customer Behavior Analysis: Data-Driven E-commerce Strategy Insights
 ### Customer Behavior Analysis Dashboard
-![Customer Behavior Dashboard](Customer_Analysis.png)
+![Customer Behavior Dashboard](Customer_analysis.png)
 
 
 📋 Project Overview
