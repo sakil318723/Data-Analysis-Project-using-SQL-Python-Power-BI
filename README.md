@@ -1,4 +1,8 @@
 Customer Behavior Analysis: Data-Driven E-commerce Strategy Insights
+### Customer Behavior Analysis Dashboard
+![Customer Behavior Dashboard](Customer_Analysis.png)
+
+
 📋 Project Overview
 
 This project presents a comprehensive analysis of customer purchase behavior from an e-commerce platform. Using data from 3,900 transactions, the analysis uncovers actionable insights to:
